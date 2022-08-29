@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Pflug_HW05</string>
+
+    <string name="emailTextBox_placeholder">Email</string>
+    <string name="passwordTextBox_placeholder">Password</string>
+    <string name="submitButton_label">Submit</string>
+    <string name="cancelButton_label">Cancel</string>
+
+    <string name="login_button_label">Login</string>
+    <string name="login_createAccountButton_label">Create New Account</string>
+
+    <string name="createAccount_nameTextBox_placeholder">Full Name</string>
+
+    <string name="post_welcomeText_placeholder">Welcome, Name</string>
+    <string name="posts_createButton_label">Create Post</string>
+    <string name="posts_logoutButton_label">Logout</string>
+
+    <string name="createPost_postText_placeholder">Enter Post</string>
+</resources>
